@@ -1,16 +1,16 @@
 # All-Project
 
-# 👨‍💻 My Web Development Projects
+#  My Web Development Projects
 
-## 1️⃣ Coffee Shop Website
+## 1️⃣ Profile Card 
 - Tech: HTML, CSS
-- GitHub: https://github.com/yourname/coffee-website
-- Live: https://yourname.github.io/coffee-website
+- GitHub: 
 
-## 2️⃣ Restaurant Landing Page
-- Tech: HTML, CSS
-- GitHub: https://github.com/yourname/restaurant-site
 
-## 3️⃣ Portfolio Website
+## 2️⃣ 
 - Tech: HTML, CSS
-- GitHub: https://github.com/yourname/portfolio
+- GitHub: 
+
+## 3️⃣ 
+- Tech: HTML, CSS
+- GitHub: 
